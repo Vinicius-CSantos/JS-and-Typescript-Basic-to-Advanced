@@ -1,0 +1,3 @@
+// MINHA SOLUÇÃO: console.log("meu nome é" + " Vinicius Correa dos Santos." + " Estou aprendendo Javascript às " + "14:02" + " da tarde");
+// Solução do professor. 
+console.log('meu nome é "Vinicius Correa dos Santos". Estou aprendendo Javascript às', 14, "da tarde");
