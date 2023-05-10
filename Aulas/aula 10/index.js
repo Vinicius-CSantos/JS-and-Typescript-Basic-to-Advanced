@@ -1,6 +1,7 @@
 /*
 primitive data types
 
+String, number, null. undefined, boolean and symbol
 
 */
 
